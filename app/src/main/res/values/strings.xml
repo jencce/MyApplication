@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">向饿了</string>
+    <string name="hello_world">怎么办\n吃饭\n没有饭\n那就吃肉\n好，那就吃肉</string>
+    <string name="action_settings">还是饿</string>
+    <string name="button_text">还是饿</string>
+
+</resources>
